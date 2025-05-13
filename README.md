@@ -13,9 +13,9 @@ API para gerenciar tarefas (CRUD)
 ## Práticas adotadas
 
 - Princípios SOLID  
-- DRY (Don't Repeat Yourself)  
-- YAGNI (You Aren’t Gonna Need It)  
-- KISS (Keep It Simple, Stupid)  
+- DRY 
+- YAGNI  
+- KISS 
 - API REST  
 - Consultas com Spring Data JPA  
 - Injeção de Dependências  
